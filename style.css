@@ -109,7 +109,11 @@ body{
 
 }
 
-@media screen and (max-width:1024px){
+@media screen and (max-width:900px){
+
+    .title{
+        line-height: 1.1;
+    }
     
     .container, .card-1, .card-2, .card-3, .card-4 {        
         position: relative;        
