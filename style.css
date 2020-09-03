@@ -114,6 +114,9 @@ body{
     .title{
         line-height: 1.1;
     }
+    p{
+        line-height: 1.5;
+    }
     
     .container, .card-1, .card-2, .card-3, .card-4 {        
         position: relative;        
